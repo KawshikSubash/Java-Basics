@@ -8,7 +8,7 @@ Built while learning. Meant to be readable, runnable, and useful for anyone — 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Java](https://img.shields.io/badge/Java-JDK%2017%2B-orange)
-[![GitHub](https://img.shields.io/badge/GitHub-KawshikSubash-181717?logo=github)](https://github.com/KawshikSubash)
+[![GitHub](https://img.shields.io/badge/Author-KawshikSubash-181717?logo=github)](https://github.com/KawshikSubash)
 
 </div>
 
@@ -169,8 +169,8 @@ This project is licensed under the **MIT License** — see [LICENSE](./LICENSE) 
 
 **Kawshik Subash**
 
-[![GitHub](https://img.shields.io/badge/GitHub-KawshikSubash-181717?logo=github)](https://github.com/KawshikSubash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kawshiksubash-0A66C2?logo=linkedin)](https://linkedin.com/in/kawshiksubash)
-[![Email](https://img.shields.io/badge/Email-kawshiksubash06467%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kawshiksubash06467@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/KawshikSubash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/kawshiksubash)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kawshiksubash06467@gmail.com)
 
 </div>
