@@ -14,7 +14,7 @@ Built while learning. Meant to be readable, runnable, and useful for anyone — 
 
 ---
 
-## 📖 About
+## About
 
 This repository is a personal record of Java concepts as I learn them — every folder is a self-contained topic with its own code, comments, and documentation. No external dependencies, no build tools required. Just Java.
 
@@ -24,7 +24,7 @@ Each topic includes:
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 You only need the **Java Development Kit (JDK)** installed. Nothing else.
 
@@ -42,10 +42,10 @@ If both print a version number, skip ahead to [Installation](#️-installation--
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 <details>
-<summary><b>🪟 Windows (Command Prompt / PowerShell)</b></summary>
+<summary><b>Windows (Command Prompt / PowerShell)</b></summary>
 
 1. Download the JDK from [Oracle](https://www.oracle.com/java/technologies/downloads/) or [Eclipse Temurin](https://adoptium.net/) (free, open-source).
 2. Run the installer and complete setup.
@@ -63,7 +63,7 @@ If both print a version number, skip ahead to [Installation](#️-installation--
 </details>
 
 <details>
-<summary><b>🐧 Ubuntu / Debian Linux</b></summary>
+<summary><b>Ubuntu / Debian Linux</b></summary>
 
 1. Install the JDK:
    ```bash
@@ -84,7 +84,7 @@ If both print a version number, skip ahead to [Installation](#️-installation--
 </details>
 
 <details>
-<summary><b>🍎 macOS</b></summary>
+<summary><b>macOS</b></summary>
 
 1. Install via Homebrew:
    ```bash
@@ -104,7 +104,7 @@ If both print a version number, skip ahead to [Installation](#️-installation--
 </details>
 
 <details>
-<summary><b>📱 Termux (Android)</b></summary>
+<summary><b>Termux (Android)</b></summary>
 
 1. Update packages and install Java + Git:
    ```bash
@@ -126,7 +126,7 @@ If both print a version number, skip ahead to [Installation](#️-installation--
 
 ---
 
-## ▶️ Running Any Topic
+## Running Any Topic
 
 Once cloned, navigate into any topic folder, compile, and run:
 
@@ -140,7 +140,7 @@ Replace `Sorting` with any other topic folder + filename — the same three comm
 
 ---
 
-## 📚 Topics
+## Topics
 
 | # | Topic | Path | Description |
 |---|---|---|---|
@@ -151,19 +151,19 @@ Replace `Sorting` with any other topic folder + filename — the same three comm
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is primarily a personal learning repository, but suggestions, corrections, or better implementations are always welcome — feel free to open an issue or a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see [LICENSE](./LICENSE) for details.
 
 ---
 
-## 👤 Author
+## Author
 
 <div align="center">
 
